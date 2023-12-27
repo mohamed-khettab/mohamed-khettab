@@ -6,22 +6,12 @@ Hey there! I'm Mohamed Khettab, a high school sophomore with a passion for explo
 
 ## 🔧 Technologies & Tools
 
-I'm well versed in a variety of languages. My favorites are Javascript and Python, but I am also familiar with HTML, CSS, Typescript, and Java. My toolkit includes Express and React for frameworks, MongoDB for databases, and I am currently learning SQL. 
-
 My Technologies and Tools:
 
 - **Languages:** Javascript, Typescript, HTML, CSS, Python, Java
 - **Frameworks & Libraries:** Express, React
 - **Databases:** MongoDB, Learning SQL
 - **Tools:** VS Code, git, npm, Node.js
-
-## 🌱 I'm Currently Learning
-
-As coding is one of my passions, I'm on a quest to learn new things. I am currently learning SQL to become a database expert, as well as mastering React to craft more dynamic and responsive user interfaces.
-
-## 👯 I'm Looking to Collaborate On
-
-Open to collaboration on any exciting projects! If you have something interesting brewing, don't hesitate to reach out. Let's create something amazing together.
 
 ## 💻 Check Out My Latest Projects
 
