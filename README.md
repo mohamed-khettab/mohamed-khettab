@@ -17,7 +17,7 @@ My Technologies and Tools:
 
 Explore some of my recent creations:
 
-- [Darija Dictionary](https://github.com/mohamed-khettab/darija-dictionary)
+- [Darija Dictionary (DISCONTINUED)](https://github.com/mohamed-khettab/darija-dictionary) 
 - [Campus Companion](https://github.com/mohamed-khettab/campus-companion)
 - [p5js Flappy Bird Clone](https://github.com/mohamed-khettab/flappy-bird-p5js)
 
