@@ -17,9 +17,10 @@ My Technologies and Tools:
 
 Explore some of my recent creations:
 
-- [Darija Dictionary (DISCONTINUED)](https://github.com/mohamed-khettab/darija-dictionary) 
+- [Schoology Notifier](https://github.com/mohamed-khettab/schoology-notifier)
 - [Campus Companion](https://github.com/mohamed-khettab/campus-companion)
 - [p5js Flappy Bird Clone](https://github.com/mohamed-khettab/flappy-bird-p5js)
+- [Darija Dictionary (DISCONTINUED)](https://github.com/mohamed-khettab/darija-dictionary) 
 
 ## 🌟 GitHub Stats
 
