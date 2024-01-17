@@ -19,6 +19,7 @@ Explore some of my recent creations:
 
 - [Schoology Notifier](https://github.com/mohamed-khettab/schoology-notifier)
 - [Campus Companion](https://github.com/mohamed-khettab/campus-companion)
+- [Scioto Connect (WIP)](https://github.com/mohamed-khettab/Scioto-Connect)
 - [p5js Flappy Bird Clone](https://github.com/mohamed-khettab/flappy-bird-p5js)
 - [Darija Dictionary (DISCONTINUED)](https://github.com/mohamed-khettab/darija-dictionary) 
 
