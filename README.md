@@ -1,17 +1,4 @@
-# 👋 Hello, I'm Mohamed
-
-## 🚀 About Me
-
-Hey there! I'm Mohamed Khettab, a high school sophomore with a passion for exploring the wide world of programming. I'm just getting started, but the tech world already has me hooked. I'm on an exciting journey of learning.
-
-## 🔧 Technologies & Tools
-
-My Technologies and Tools:
-
-- **Languages:** Javascript, Typescript, HTML, CSS, Python, Java
-- **Frameworks & Libraries:** Express, React
-- **Databases:** MongoDB, Learning SQL
-- **Tools:** VS Code, git, npm, Node.js
+# 👋 Hello, I'm Mohamed!
 
 ## 💻 Check Out My Latest Projects
 
