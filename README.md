@@ -1,13 +1,21 @@
 # 👋 Hello, I'm Mohamed!
 
-## 💻 Check Out My Latest Projects
+I am a sophomore at Dublin Scioto High School who's interested in technology and coding.
 
-Explore some of my recent creations:
+## 🚀 What I'm Up To
 
-- [Schoology Notifier](https://github.com/mohamed-khettab/schoology-notifier)
-- [Campus Companion](https://github.com/mohamed-khettab/campus-companion)
-- [Scioto Connect (WIP)](https://github.com/mohamed-khettab/Scioto-Connect)
-- [p5js Flappy Bird Clone](https://github.com/mohamed-khettab/flappy-bird-p5js)
+- Sharpening my React skills with my [most recent project](https://github.com/mohamed-khettab/Scioto-Connect)
+- Learning and building applications with SQL
+
+## Tech Stack
+
+Languages: Python, Java, Javascript, HTML, CSS, Typescript
+
+
+Developer tools: Postman, Git
+
+
+Libraries/Frameworks: React, Node, Mongodb
 
 ## 🌟 GitHub Stats
 
