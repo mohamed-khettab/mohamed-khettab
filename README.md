@@ -7,7 +7,7 @@ I am a sophomore at Dublin Scioto High School who's interested in technology and
 - Sharpening my React skills with my [most recent project](https://github.com/mohamed-khettab/Scioto-Connect)
 - Learning and building applications with SQL
 
-## Tech Stack
+## 💻 Tech Stack
 
 Languages: Python, Java, Javascript, HTML, CSS, Typescript
 
