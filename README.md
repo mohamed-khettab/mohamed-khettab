@@ -2,11 +2,11 @@
 
 ## 🌟 About Me 
 
-I am a sophomore at Dublin Scioto High School who's interested in technology and coding. I'm eager to learn and expand my skills.
+I am a sophomore in high school who's interested in technology and coding.
 
 ## 🚀 What I'm Up To
 
-- Sharpening my React skills with my [most recent project](https://github.com/mohamed-khettab/Scioto-Connect)
+- Sharpening my React skills with [my most recent project](https://github.com/mohamed-khettab/Scioto-Connect)
 - Learning and building applications with SQL
 
 ## 🌟 GitHub Stats
