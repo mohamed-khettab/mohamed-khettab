@@ -2,12 +2,7 @@
 
 ## 🌟 About Me 
 
-I am a sophomore in high school who's interested in technology and coding.
-
-## 🚀 What I'm Up To
-
-- Sharpening my React skills with [my most recent project](https://github.com/mohamed-khettab/Scioto-Connect)
-- Learning and building applications with SQL
+I am a sophomore in high school who's interested in technology and coding. Check out some of my projects.
 
 ## 🌟 GitHub Stats
 
